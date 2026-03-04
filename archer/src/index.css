@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #0b0e14; /* Pastikan background body juga gelap */
+  color: rgb(0, 255, 34);
+}
